@@ -18,5 +18,7 @@ public class Exercicio3 {
         else {
             System.out.println("Os numeros nao são multiplos");
         }
+
+        sc.close();
     }
 }
