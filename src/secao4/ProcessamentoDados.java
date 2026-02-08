@@ -1,4 +1,4 @@
-package seção4;
+package secao4;
 
 public class ProcessamentoDados {
     public static void main(String[] args) {
